@@ -31,5 +31,4 @@
 
 
 
-## BOILERPLATE
-[IIAE_Folder_Structure.docx](https://github.com/user-attachments/files/25786847/IIAE_Folder_Structure.docx)
+
