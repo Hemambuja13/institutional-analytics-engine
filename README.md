@@ -28,6 +28,7 @@
 
 
 ## 📁 Boilerplate Structure
+```
 
 IIAE/
 ├── frontend/
@@ -67,6 +68,7 @@ IIAE/
 └── database/
     └── iiae_db.sql
 
+```
 
 ## 🎨 UI/UX Wireframe
 
