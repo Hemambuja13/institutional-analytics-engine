@@ -28,7 +28,7 @@
 
 
 ## 📁 Boilerplate Structure
-```
+
 IIAE/
 ├── frontend/
 │   ├── public/
@@ -71,7 +71,6 @@ IIAE/
 ## 🎨 UI/UX Wireframe
 
 https://www.figma.com/design/JI7jacx8cWZnaDiYfP3V9H/Untitled?node-id=0-1&t=irhXCy45WtDJORMx-1
-
 
 
 
