@@ -76,4 +76,35 @@ https://www.figma.com/design/JI7jacx8cWZnaDiYfP3V9H/Untitled?node-id=0-1&t=irhXC
 
 
 
+---
 
+## 🛠️ Tech Stack
+
+### Frontend
+| Technology | Purpose |
+|------------|---------|
+| React.js | UI Framework |
+| React Router | Navigation & Routing |
+| Axios | API Calls |
+| CSS | Styling |
+
+### Backend
+| Technology | Purpose |
+|------------|---------|
+| Node.js | Runtime Environment |
+| Express.js | Web Framework |
+| JWT | Authentication |
+
+### Database
+| Technology | Purpose |
+|------------|---------|
+| MySQL | Relational Database |
+| phpMyAdmin | Database Management |
+
+### Tools & Others
+| Technology | Purpose |
+|------------|---------|
+| Git & GitHub | Version Control |
+| VS Code | Code Editor |
+| Figma | UI/UX Design |
+| XAMPP | Local Server |
