@@ -1,0 +1,10 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #0f1623;
+  color: #e8edf5;
+  min-height: 100vh;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
